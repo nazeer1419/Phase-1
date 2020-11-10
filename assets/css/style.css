@@ -1,0 +1,82 @@
+
+.label {
+	text-align:center;
+	padding:10px;
+}
+
+.functionalities {
+	margin: auto;
+	width: 50%;
+	padding: 10px;
+	text-align:center;
+}
+
+.function {
+	list-style:none;
+	min-width:150px;
+	margin:10px;
+	text-align:center;
+	text-shadow:1px 1px lightgray;
+	border:2px solid gray;
+	background-color:gainsboro;
+}
+
+.function:hover {
+	background-color:lightblue;
+}
+
+.function a {
+	display:block;
+	text-decoration:none;
+	margin-top:5px;
+	margin-bottom:5px;
+	color:black;
+	font-weight:bold;
+}
+
+.box {
+	margin: auto;
+	margin-top:30px;
+	width: 30%;
+	padding: 10px;
+	border:1px solid gray;
+	text-align:center;
+}
+
+.box input, a, form {
+	margin:10px;
+}
+
+.social a{
+  font-size: 2.5em ;
+  padding : 3rem;
+}
+.fa-facebook{
+  color : #3b5998 ;
+}
+.fa-twitter{
+  color : #00aced ;
+}
+.fa-instagram{
+  color : #8a3ab9;
+}
+footer {
+  background-color: #202020 ;
+  color : #d5d5d5 ;
+  padding: 2rem ;
+}
+hr.light{
+border-top: 1px solid ;
+width: 75%;
+color: #d5d5d5
+}
+.welcome{
+  width: 75%;
+  margin: 0 auto ;
+  padding-top: 2rem;
+}
+.welcome hr{
+  width:50%;
+  border-top: 2px solid #b4b4b4 ;
+
+}
